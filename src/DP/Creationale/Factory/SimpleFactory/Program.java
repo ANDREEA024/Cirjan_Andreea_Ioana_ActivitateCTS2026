@@ -8,7 +8,6 @@ public class Program {
 		try {
 			pizza = pizzaFactory.crearePizza(ETipPizza.ROMA);
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		

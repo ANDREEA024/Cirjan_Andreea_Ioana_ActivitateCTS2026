@@ -6,7 +6,6 @@ public class Magazin extends AMagazin{
 
 	Magazin(IPodea podea, float suprafata, int nrIntrari, String denumire) {
 		super(podea, suprafata, nrIntrari, denumire);
-		// TODO Auto-generated constructor stub
 	}
 	
 	void addDecoratiune(IDecoratiuni decoratiune) {
