@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Cirjan_Andreea_Ioana_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/.idea/Cirjan_Andreea_Ioana_ActivitateCTS2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/DP2026/Seminar/Feb21/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/src/DP2026/Seminar/Feb21/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/DP2026/Seminar/Feb21/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/src/DP2026/Seminar/Feb21/SimpleFactory/SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/DP2026/Seminar/Feb21/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/src/DP2026/Seminar/Feb21/Singleton/Singleton.iml" />
     </modules>
   </component>
 </project>
