@@ -1,4 +1,4 @@
-package DP2026.Teme.Practica.Singleton.program;
+package DP2026.ProblemeCTS.Practica.Singleton.program;
 
 public class Nava {
 

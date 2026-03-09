@@ -1,7 +1,7 @@
-package DP2026.Teme.Practica.Singleton.program;
+package DP2026.ProblemeCTS.Practica.Singleton.program;
 
-import DP2026.Teme.Practica.Singleton.multiplu.DanaAcostare;
-import DP2026.Teme.Practica.Singleton.simplu.PortMaritim;
+import DP2026.ProblemeCTS.Practica.Singleton.multiplu.DanaAcostare;
+import DP2026.ProblemeCTS.Practica.Singleton.simplu.PortMaritim;
 
 public class Program {
 

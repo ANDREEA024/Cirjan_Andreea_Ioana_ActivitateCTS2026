@@ -1,6 +1,6 @@
-package DP2026.Teme.Practica.Singleton.multiplu;
+package DP2026.ProblemeCTS.Practica.Singleton.multiplu;
 
-import DP2026.Teme.Practica.Singleton.program.Nava;
+import DP2026.ProblemeCTS.Practica.Singleton.program.Nava;
 
 import java.util.ArrayList;
 import java.util.HashMap;

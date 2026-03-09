@@ -1,4 +1,4 @@
-package DP2026.Teme.Practica.Singleton.simplu;
+package DP2026.ProblemeCTS.Practica.Singleton.simplu;
 
 public class PortMaritim {
     private String nume;
