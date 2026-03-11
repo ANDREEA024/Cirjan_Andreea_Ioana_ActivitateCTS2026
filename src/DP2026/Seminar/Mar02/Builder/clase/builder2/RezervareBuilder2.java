@@ -7,13 +7,9 @@ public class RezervareBuilder2 implements BuilderAbstract {
 
     //versiunea 2 - cu atributele copiate
     private boolean laGeam;
-
     private boolean scaunErgonomic;
-
     private String culoareFataMasa;
-
     private String genMuzical;
-
     private int nrPersoane;
 
     public RezervareBuilder2() {
